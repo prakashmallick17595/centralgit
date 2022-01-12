@@ -2,3 +2,7 @@ import requests
 cookies = dict(key1='value1')
 res = requests.get('https://httpbin.org/cookies', cookies = cookies)
 print(res.text)
+Dil-e-naadan tujhe huwa kya hai
+Bata iss dard ki dawa kya hai
+hume unse hai wafaa ki umeed
+jinhe maalum hi nhi ki wafa kya hai
